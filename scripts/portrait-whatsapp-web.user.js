@@ -8,6 +8,8 @@
 // @grant        none
 // @tag          style
 // @run-at       document-idle
+// @updateURL    https://raw.githubusercontent.com/LucasEsposito/MyMonkeyScripts/main/scripts/portrait-whatsapp-web.user.js
+// @downloadURL  https://raw.githubusercontent.com/LucasEsposito/MyMonkeyScripts/main/scripts/portrait-whatsapp-web.user.js
 // ==/UserScript==
 
 (function() {
