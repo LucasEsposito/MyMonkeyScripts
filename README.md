@@ -20,3 +20,10 @@ Scripts follow typical UserScripts standards and they therefore are configured t
 ## Scripts
 ### Portrait WhatsApp Web
 Adapts WhatsApp Web to look better on portrait screens by removing the left sidebar as well as reducing the size of the left column (where contacts are displayed), giving more room to the chats column.
+
+### Bypass paste restrictions
+This script bypasses the restrictions set up on some sites, where pasting is disabled.
+
+#### Recommended usage
+To not break any site, it's recommended that you always keep the script disabled and run it manually (while still keeping it disabled) only on the sites and situations you want to.
+I use this no more than once per site, usually at registration, where pasting may be disabled. Therefore, running it this way is perfectly fine and even preferred. If you need to use this repeatedly on any page, you can edit the `@match` attribute in the script to match the URLs you want.
