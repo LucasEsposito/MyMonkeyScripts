@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Portrait WhatsApp
 // @source       https://github.com/LucasEsposito/MyMonkeyScripts
-// @version      0.2
+// @version      0.2.1
 // @description  Removes What's App Web left menu and reduces the size of the chats column, making it less cluttered and better fitting for portrait screens.
 // @author       Lucas Esposito
 // @match        *://web.whatsapp.com/*
@@ -10,6 +10,7 @@
 // @run-at       document-idle
 // @updateURL    https://raw.githubusercontent.com/LucasEsposito/MyMonkeyScripts/main/scripts/portrait-whatsapp-web.user.js
 // @downloadURL  https://raw.githubusercontent.com/LucasEsposito/MyMonkeyScripts/main/scripts/portrait-whatsapp-web.user.js
+// @supportURL   https://github.com/LucasEsposito/MyMonkeyScripts/issues
 // ==/UserScript==
 
 (function() {
